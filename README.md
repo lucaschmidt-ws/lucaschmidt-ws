@@ -1,4 +1,4 @@
-## WELCOME, ESTOU EM APERFEIÇAPERFEIÇOAMENTO😁
+## WELCOME, ESTOU EM APERFEIÇOAMENTO😁
  <div>
    <a href="https://github.com/lucaschmidt">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaschmidt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
